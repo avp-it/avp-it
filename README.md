@@ -1,7 +1,10 @@
 <div id="header' align="center">
-  <hi>Hi there, I'm Alex</hi>
+  <hi>Hi there, I'm Alex ⚡</hi>
 </div>
   
+### My stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avp-it&theme=nord_dark) 
+
 
 <!--
 **avp-it/avp-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
