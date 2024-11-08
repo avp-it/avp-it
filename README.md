@@ -29,6 +29,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avp-it&theme=transparent" alt=""/>
 </div>
 
+<img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
 
 <!--
 **avp-it/avp-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
