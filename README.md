@@ -3,13 +3,19 @@
     <h1>⚡ Hi there, I'm  Alex ⚡ </h1>
 </div>
 
+<div id="header" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&color=F7AD4F&width=400&size=30&lines=⚡+Hi+there%2C+I'm+Alex+⚡" alt="Typing SVG" /></a>
+</div>
+
 ### About me:
+
 - 🌱 I’m currently learning **DevOPS**
 - 📫 Reach me by [Telegram](https://t.me/avplaksin), [email](mailto:avp.it.devops@gmail.com)
 ##
 ### Skills:
 ### OS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="win" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="win" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 
 ### Languages and tools
 
