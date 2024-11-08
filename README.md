@@ -6,14 +6,27 @@
 
 
 <div id="socials">
-    <a href="[telegram-url](https://t.me/)">
+    <a href="https://t.me/avplaksin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
+<div id="socials">
+    <a href="https://t.me/avplaksin">
+    <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+### About me
+- 🌱 I’m currently learning **DevOPS**
+- 📫 Reach me by [Telegram](tg-link), [email](mailto:email-address)
+- 🌍 I speak Russian
+
+
+### OS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="win" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 
 ### Languages and tools
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="ansible" width="40" height="40"/>&nbsp;
