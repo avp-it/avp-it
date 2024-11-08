@@ -1,7 +1,12 @@
 <div id="header' align="center">
-  <hi>Hi there, I'm Alex ⚡</hi>
+  <hi>Hi there, I'm Alex </hi>
 </div>
-  
+
+# Hi there, I'm Alex ⚡
+<a href="telegram-url">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
 ### My stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avp-it&theme=nord_dark) 
 
