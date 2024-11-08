@@ -1,28 +1,13 @@
 
 <div id="header" align="center">
-    <h1>Hi there, I'm  Alex ⚡ </h1>
-    <h3>DevOPS</h3>
+    <h1>⚡ Hi there, I'm  Alex ⚡ </h1>
 </div>
 
-
-
-
-### About me
+### About me:
 - 🌱 I’m currently learning **DevOPS**
-- 📫 Reach me by [Telegram](tg-link), [email](mailto:email-address)
-<div id="socials">
-    <a href="https://t.me/avplaksin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-
-<div id="socials">
-    <a href="https://t.me/avplaksin">
-    <img src="https://img.shields.io/badge/%40-gmail-blue?style=plastic&logo=mail&logoColor=white" alt="Telegram"/>
-  </a>
-</div>
-
-
+- 📫 Reach me by [Telegram](https://t.me/avplaksin), [email](mailto:avp.it.devops@gmail.com)
+##
+### Skills:
 ### OS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="win" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 
@@ -34,17 +19,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-
-### My stats
+##
+### My stats:
 <div id="stat">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avp-it&theme=transparent" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avp-it&theme=transparent" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avp-it&theme=transparent" alt=""/>
 </div>
-
-
-
-
 
 
 <!--
