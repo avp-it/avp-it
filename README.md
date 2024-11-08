@@ -3,10 +3,6 @@
     <h1>⚡ Hi there, I'm  Alex ⚡ </h1>
 </div>
 
-<div id="header" align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&pause=1000&color=F7AD4F&width=400&size=30&lines=⚡+Hi+there%2C+I'm+Alex+⚡" alt="Typing SVG" /></a>
-</div>
-
 ### About me:
 
 - 🌱 I’m currently learning **DevOPS**
