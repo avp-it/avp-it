@@ -29,10 +29,11 @@
 <div id="stat">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avp-it&theme=transparent" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avp-it&theme=transparent" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avp-it&theme=transparent" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
 </div>
 
 <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" style="max-width: 100%;">
+
 
 <!--
 **avp-it/avp-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
