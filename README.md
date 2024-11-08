@@ -3,6 +3,8 @@
     <h1>⚡ Hi there, I'm  Alex ⚡ </h1>
 </div>
 
+
+
 ### About me:
 
 - 🌱 I’m currently learning **DevOPS**
@@ -23,6 +25,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 ##
 ### My stats:
+<img src="https://komarev.com/ghpvc/?username=avp-it&color=brightgreen" alt="watching_count" />
 <div id="stat">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avp-it&theme=transparent" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avp-it&theme=transparent" alt=""/>
