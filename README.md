@@ -7,13 +7,13 @@
 
 <div id="socials">
     <a href="https://t.me/avplaksin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 <div id="socials">
     <a href="https://t.me/avplaksin">
-    <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/%40-gmail-blue?style=plastic&logo=mail&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
