@@ -1,9 +1,6 @@
-
 <div id="header" align="center">
     <h1>⚡ Hi there, I'm  Alex ⚡ </h1>
 </div>
-
-
 
 ### About me:
 
